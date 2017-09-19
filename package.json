@@ -1,0 +1,15 @@
+{
+  "name": "webpack-config-builder",
+  "version": "1.0.63",
+  "description": "Config builder for Webpack",
+  "main": "src/index.js",
+  "peerDependencies": {
+    "webpack": "^2.2.1"
+  },
+  "author": "Egor Chikunov (http://chikunov.nl)",
+  "license": "MIT",
+  "devDependencies": {
+    "shelljs": "^0.7.6",
+    "typescript": "^2.2.1"
+  }
+}
